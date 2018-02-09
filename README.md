@@ -1,10 +1,10 @@
-AppleBot
-========
+First try with UR5 in Python 3
 
-Sofware tools for apple harvesting
+moving with hand to specifics positions
 
-This is a reference source code to the article on
+based on code by 
+
 http://robotika.cz/articles/applebot/
 
-![First 3D scan](http://robotika.cz/articles/applebot/apple-scanner.jpg)
 
+https://github.com/robotika/applebot
