@@ -1,6 +1,6 @@
 My firts try with UR5-> moving red ball
 
-Coded based on apple bot
+Code based on applebot
 
 https://github.com/robotika/applebot
 
