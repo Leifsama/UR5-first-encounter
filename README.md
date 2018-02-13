@@ -1,10 +1,9 @@
-AppleBot
-========
+My firts try with UR5-> moving red ball
 
-Sofware tools for apple harvesting
+Coded based on apple bot
 
-This is a reference source code to the article on
-http://robotika.cz/articles/applebot/
+https://github.com/robotika/applebot
 
-![First 3D scan](http://robotika.cz/articles/applebot/apple-scanner.jpg)
+my changes in the file "kure"
 
+arduino control in the file "ruka 1"
